@@ -254,3 +254,6 @@ If you found this useful:
 - 📢 Share it  
 
 ---
+
+⚠️ Note: This is a sanitized sample workflow. 
+Sensitive logic, prompts, and credentials have been replaced with placeholders.
