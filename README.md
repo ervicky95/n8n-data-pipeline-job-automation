@@ -255,5 +255,5 @@ If you found this useful:
 
 ---
 
-⚠️ Note: This is a sanitized sample workflow. 
-Sensitive logic, prompts, and credentials have been replaced with placeholders.
+⚠️ Note: Full n8n workflow JSON is not publicly shared to protect proprietary logic and prompts.  
+A high-level workflow explanation is provided instead.
