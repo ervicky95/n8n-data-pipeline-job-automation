@@ -240,7 +240,7 @@ Google Sheets stores:
 
 ## 👨‍💻 Author
 
-**Vicky Singh**  
+**Vicky Kumar**  
 Data Engineer | Automation & AI Enthusiast 🚀  
 
 ---
